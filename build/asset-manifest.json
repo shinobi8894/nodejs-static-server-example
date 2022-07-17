@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.1d2b691d.css",
-    "main.js": "/static/js/main.a79046cb.js",
-    "static/js/257.9101b4bd.chunk.js": "/static/js/257.9101b4bd.chunk.js",
+    "main.js": "/static/js/main.16fdfb6f.js",
+    "static/js/257.f5c15d4c.chunk.js": "/static/js/257.f5c15d4c.chunk.js",
     "static/js/787.31d24804.chunk.js": "/static/js/787.31d24804.chunk.js",
     "static/js/160.80d96e22.chunk.js": "/static/js/160.80d96e22.chunk.js",
     "static/media/jett-hero-img.png": "/static/media/jett-hero-img.55c79cdb67bfe7e94444.png",
@@ -15,13 +15,13 @@
     "static/media/jett-client-1.png": "/static/media/jett-client-1.2c7b6c93e2cef89046fd.png",
     "index.html": "/index.html",
     "main.1d2b691d.css.map": "/static/css/main.1d2b691d.css.map",
-    "main.a79046cb.js.map": "/static/js/main.a79046cb.js.map",
-    "257.9101b4bd.chunk.js.map": "/static/js/257.9101b4bd.chunk.js.map",
+    "main.16fdfb6f.js.map": "/static/js/main.16fdfb6f.js.map",
+    "257.f5c15d4c.chunk.js.map": "/static/js/257.f5c15d4c.chunk.js.map",
     "787.31d24804.chunk.js.map": "/static/js/787.31d24804.chunk.js.map",
     "160.80d96e22.chunk.js.map": "/static/js/160.80d96e22.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1d2b691d.css",
-    "static/js/main.a79046cb.js"
+    "static/js/main.16fdfb6f.js"
   ]
 }
