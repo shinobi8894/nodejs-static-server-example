@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1d2b691d.css",
+    "main.js": "/static/js/main.a79046cb.js",
+    "static/js/257.9101b4bd.chunk.js": "/static/js/257.9101b4bd.chunk.js",
+    "static/js/787.31d24804.chunk.js": "/static/js/787.31d24804.chunk.js",
+    "static/js/160.80d96e22.chunk.js": "/static/js/160.80d96e22.chunk.js",
+    "static/media/jett-hero-img.png": "/static/media/jett-hero-img.55c79cdb67bfe7e94444.png",
+    "static/media/jett-service-img.png": "/static/media/jett-service-img.381eea33f95819c46047.png",
+    "static/media/jett-newsletter.png": "/static/media/jett-newsletter.373db9c087f218a170cb.png",
+    "static/media/jet-developer.png": "/static/media/jet-developer.b521ecef8ac2d7c7103a.png",
+    "static/media/jett-CMO.png": "/static/media/jett-CMO.db1205bde8999fee735c.png",
+    "static/media/jett-team-avatar.png": "/static/media/jett-team-avatar.f2d694ee4788a563a0c7.png",
+    "static/media/jett-CEO.png": "/static/media/jett-CEO.b8b0042648abb70a660f.png",
+    "static/media/jett-client-1.png": "/static/media/jett-client-1.2c7b6c93e2cef89046fd.png",
+    "index.html": "/index.html",
+    "main.1d2b691d.css.map": "/static/css/main.1d2b691d.css.map",
+    "main.a79046cb.js.map": "/static/js/main.a79046cb.js.map",
+    "257.9101b4bd.chunk.js.map": "/static/js/257.9101b4bd.chunk.js.map",
+    "787.31d24804.chunk.js.map": "/static/js/787.31d24804.chunk.js.map",
+    "160.80d96e22.chunk.js.map": "/static/js/160.80d96e22.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d2b691d.css",
+    "static/js/main.a79046cb.js"
+  ]
+}
