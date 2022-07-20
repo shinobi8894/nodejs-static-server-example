@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.f2694ecb.css",
-    "main.js": "/static/js/main.02d5b7c7.js",
-    "static/js/941.063eddae.chunk.js": "/static/js/941.063eddae.chunk.js",
+    "main.css": "/static/css/main.a6032a3c.css",
+    "main.js": "/static/js/main.0c1b2c14.js",
+    "static/js/941.7857d56b.chunk.js": "/static/js/941.7857d56b.chunk.js",
     "static/js/787.31d24804.chunk.js": "/static/js/787.31d24804.chunk.js",
-    "static/js/946.edb3ee8d.chunk.js": "/static/js/946.edb3ee8d.chunk.js",
+    "static/js/193.2b7646b6.chunk.js": "/static/js/193.2b7646b6.chunk.js",
     "static/media/jett-hero-img.png": "/static/media/jett-hero-img.55c79cdb67bfe7e94444.png",
     "static/media/jett-service-img.png": "/static/media/jett-service-img.381eea33f95819c46047.png",
     "static/media/jett-newsletter.png": "/static/media/jett-newsletter.373db9c087f218a170cb.png",
@@ -14,14 +14,14 @@
     "static/media/jett-CEO.png": "/static/media/jett-CEO.b8b0042648abb70a660f.png",
     "static/media/jett-client-1.png": "/static/media/jett-client-1.2c7b6c93e2cef89046fd.png",
     "index.html": "/index.html",
-    "main.f2694ecb.css.map": "/static/css/main.f2694ecb.css.map",
-    "main.02d5b7c7.js.map": "/static/js/main.02d5b7c7.js.map",
-    "941.063eddae.chunk.js.map": "/static/js/941.063eddae.chunk.js.map",
+    "main.a6032a3c.css.map": "/static/css/main.a6032a3c.css.map",
+    "main.0c1b2c14.js.map": "/static/js/main.0c1b2c14.js.map",
+    "941.7857d56b.chunk.js.map": "/static/js/941.7857d56b.chunk.js.map",
     "787.31d24804.chunk.js.map": "/static/js/787.31d24804.chunk.js.map",
-    "946.edb3ee8d.chunk.js.map": "/static/js/946.edb3ee8d.chunk.js.map"
+    "193.2b7646b6.chunk.js.map": "/static/js/193.2b7646b6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f2694ecb.css",
-    "static/js/main.02d5b7c7.js"
+    "static/css/main.a6032a3c.css",
+    "static/js/main.0c1b2c14.js"
   ]
 }
